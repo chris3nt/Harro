@@ -27,7 +27,7 @@ namespace Harro
 
         private void okClick(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello " + userName.Text + ", nice to meet you. Installing happy virus on your system. Have a nice day.");
+            MessageBox.Show("Hello " + userName.Text + ", nice to meet you.");
         }
     }
 }
