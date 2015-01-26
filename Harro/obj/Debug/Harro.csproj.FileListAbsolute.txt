@@ -1,0 +1,26 @@
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\bin\Debug\Harro.exe.config
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\bin\Debug\Harro.exe
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\bin\Debug\Harro.pdb
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\obj\Debug\Harro.csprojResolveAssemblyReference.cache
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\obj\Debug\MainWindow.baml
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\obj\Debug\MainWindow.g.cs
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\obj\Debug\App.g.cs
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\obj\Debug\Harro_MarkupCompile.cache
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\obj\Debug\Harro.g.resources
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\obj\Debug\Harro.Properties.Resources.resources
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\obj\Debug\Harro.csproj.GenerateResource.Cache
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\obj\Debug\Harro.exe
+c:\files\my documents\visual studio 2013\Projects\Harro\Harro\obj\Debug\Harro.pdb
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\bin\Debug\Harro.exe.config
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\obj\Debug\Harro.exe
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\obj\Debug\Harro.pdb
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\obj\Debug\Harro.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\obj\Debug\MainWindow.baml
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\obj\Debug\MainWindow.g.cs
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\obj\Debug\App.g.cs
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\obj\Debug\Harro_MarkupCompile.cache
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\obj\Debug\Harro.g.resources
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\obj\Debug\Harro.Properties.Resources.resources
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\obj\Debug\Harro.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\bin\Debug\Harro.exe
+C:\Users\Chris\Desktop\CS Projects\Harro\Harro\bin\Debug\Harro.pdb
